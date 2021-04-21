@@ -1,0 +1,46 @@
+metadata:
+  name: My BooGi App
+  short_name: BooGi
+  description: My Awesome BooGi Application
+  language: en
+  url: 'http://localhost'
+  pathPrefix: /
+  gaTrackingId: null
+  favicon: /assets/favicon.png
+  themeColor: '#0066cc'
+header:
+  enabled: true
+  logo: /assets/logo.png
+  links: []
+sidebar:
+  ignoreIndex: false
+  forcedNavOrder: []
+  expanded: []
+  groups: []
+  links: []
+  poweredBy: {}
+pwa:
+  enabled: true
+  manifest:
+    icon: /assets/logo.png
+    display: minimal-ui
+    crossOrigin: anonymous
+features:
+  editOnRepo:
+    editable: true
+    location: ''
+    type: ''
+  search:
+    enabled: false
+    indexName: docs
+    showStats: true
+    pagination:
+      enabled: true
+  rss:
+    enabled: true
+    showIcon: true
+    copyright: ''
+    categories: []
+    matchRegex: ^/
+    outputPath: /rss.xml
+version: latest
