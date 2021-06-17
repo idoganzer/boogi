@@ -1,0 +1,35 @@
+{
+    "id": "UV8oUeTuo4quY89dYCmd",
+    "name": "Hi",
+    "content": [
+        {
+            "type": "text",
+            "text": "bla"
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "   blueDark: '#264D99',",
+                "   red: '#E40046',",
+                "   // redLight: \"#FCE7EE\",",
+                "*  redLight: '#FAD0DD',",
+                "*  violet: '#A05EB5',",
+                "*  green: '#00965E',",
+                "   greenLight: '#D0EBE1',",
+                "   yellow: '#FFC72C',",
+                "   orange: '#ED8B00',"
+            ],
+            "firstLineNumber": 4,
+            "path": "config/theme/colors.js",
+            "comments": []
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.1",
+    "meta": {
+        "app_version": "0.4.8-0",
+        "file_blobs": {
+            "config/theme/colors.js": "abd95e73585f72def3e07ade3b1d15455a3f6b4d"
+        }
+    }
+}
