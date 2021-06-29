@@ -21,13 +21,15 @@
             ],
             "firstLineNumber": 4,
             "path": "config/theme/colors.js",
-            "comments": []
+            "comments": [
+                "This is text"
+            ]
         }
     ],
     "symbols": {},
     "file_version": "2.0.1",
     "meta": {
-        "app_version": "0.4.8-0",
+        "app_version": "0.4.9-1",
         "file_blobs": {
             "config/theme/colors.js": "abd95e73585f72def3e07ade3b1d15455a3f6b4d"
         }
